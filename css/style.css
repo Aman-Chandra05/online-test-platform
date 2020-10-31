@@ -1,0 +1,28 @@
+#login_form
+{
+    box-sizing: border-box;
+    width: 50%;
+    float: left;   
+}
+
+#reg_form
+{
+    box-sizing: border-box;
+    width: 50%;
+    float: left; 
+}
+
+#login_form input
+{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#reg_form input
+{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;;
+
+}

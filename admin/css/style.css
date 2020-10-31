@@ -1,0 +1,72 @@
+table
+{
+    width:50%;
+    text-align:left;
+}
+th,td
+{
+    padding:10px;
+}
+
+.container
+{
+    background-color: lightskyblue;
+    overflow: hidden;
+}
+
+.btn
+{
+    display: inline-block;
+    text-decoration: none;
+    background-color:rgb(61, 219, 61) ;
+    padding:10px;
+    color: black;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+
+input,textarea{
+    display: block;
+    margin-top: 10px;
+}
+
+.msg
+{
+    margin-top: 10px;
+
+}
+
+.quesdiv
+{
+    margin:20px;
+}
+
+.sidebar
+{
+    width:20%;
+    text-align:center;
+    box-sizing: border-box;
+    float:left;
+    padding:10px;
+}
+.content
+{
+    background-color: lightgray;
+    width:80%;
+    box-sizing: border-box;
+    float:left;
+    padding:10px;
+}
+
+.sidebar a
+{
+    display:block;
+    padding:10px;
+    text-decoration: none;;
+    background-color: #57a000;
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+}
